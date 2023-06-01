@@ -1,0 +1,2 @@
+To compile and run this code use make file provided or 
+you can use "g++ -std=c++11 main.cpp -o main.out" and to run the code use "./main.out Employee.csv"

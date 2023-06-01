@@ -1,0 +1,2 @@
+To compile this code use " g++ -std=c++11 main.cpp -o main.out "
+To run the code do ./main.out
