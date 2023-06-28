@@ -1,7 +1,7 @@
 /* 
-Name: Rahul Kumar Nalubandhu , Disha Kanavikar
-Email: nalubanr@oregonstate.edu , kanavikd@oregonstate.edu
-ONID: nalubanr, kanavikd
+Name: Rahul Kumar Nalubandhu
+Email: nalubanr@oregonstate.edu
+ONID: nalubanr
 */
 
 /*Refrences and citations:
